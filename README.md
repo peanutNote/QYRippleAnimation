@@ -3,7 +3,7 @@
 * 防雷达加载动画 
 
  
-![image](https://github.com/peanutNote/QYRippleAnimation/raw/master/demo.gif)
+![image](https://github.com/peanutNote/QYRippleAnimation/blob/master/QYRippleAnimation/demo.gif)
 
 ## 问题产生原因
 *  
