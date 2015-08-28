@@ -17,7 +17,7 @@
 		1E9A40391B8D81AE00706B8C /* QYRippleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E9A40381B8D81AE00706B8C /* QYRippleView.m */; };
 		1EBEB88A1B8EA25B00FA063C /* QYSimpleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EBEB8891B8EA25B00FA063C /* QYSimpleView.m */; };
 		1EBEB88C1B8EB29E00FA063C /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EBEB88B1B8EB29E00FA063C /* 1.png */; };
-		1EF5926A1B9000D70079CC93 /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1EF592691B9000D70079CC93 /* demo.gif */; };
+		1EF5926C1B90084E0079CC93 /* demo1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1EF5926B1B90084E0079CC93 /* demo1.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,7 +49,7 @@
 		1EBEB8881B8EA25B00FA063C /* QYSimpleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QYSimpleView.h; sourceTree = "<group>"; };
 		1EBEB8891B8EA25B00FA063C /* QYSimpleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QYSimpleView.m; sourceTree = "<group>"; };
 		1EBEB88B1B8EB29E00FA063C /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
-		1EF592691B9000D70079CC93 /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
+		1EF5926B1B90084E0079CC93 /* demo1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo1.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,7 +110,7 @@
 		1E9A40111B8D818100706B8C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				1EF592691B9000D70079CC93 /* demo.gif */,
+				1EF5926B1B90084E0079CC93 /* demo1.gif */,
 				1E9A40121B8D818100706B8C /* Info.plist */,
 				1EBEB88B1B8EB29E00FA063C /* 1.png */,
 				1E9A40131B8D818100706B8C /* main.m */,
@@ -216,8 +216,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E9A401D1B8D818100706B8C /* Main.storyboard in Resources */,
+				1EF5926C1B90084E0079CC93 /* demo1.gif in Resources */,
 				1EBEB88C1B8EB29E00FA063C /* 1.png in Resources */,
-				1EF5926A1B9000D70079CC93 /* demo.gif in Resources */,
 				1E9A40221B8D818100706B8C /* LaunchScreen.xib in Resources */,
 				1E9A401F1B8D818100706B8C /* Images.xcassets in Resources */,
 			);
